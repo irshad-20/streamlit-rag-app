@@ -1,6 +1,0 @@
-streamlit
-langchain
-google-generativeai
-langchain-google-genai
-chromadb
-pypdf
